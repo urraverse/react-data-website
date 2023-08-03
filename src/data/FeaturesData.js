@@ -9,39 +9,39 @@ const iconStyle = (Icon) => <Icon size="3rem" color="#0f0f0f" />;
 
 export const featuresData = [
 	{
-		name: 'Best Security',
-		description: 'We offer the best data security to our clients, which makes us stand out',
+		name: 'Term Life Insurance',
+		description: 'Provides coverage for a predetermined amount of time, typically between 1 – 35 years. Death benefit will payout if the policy owner passes away within the term of the policy.',
 		icon: iconStyle(BsFillShieldLockFill),
 		imgClass: 'one',
 	},
 	{
-		name: 'Ease of Use',
-		description: 'Our system is easy to use and integrate',
+		name: 'Return-Of-Premium Term',
+		description: 'We offer a compelling Return of Premium (ROP) term insurance policy which returns all contributed premiums if the insured outlives the term period.',
 		icon: iconStyle(IoIosOptions),
 		imgClass: 'two',
 	},
 	{
-		name: 'Maintenance',
-		description: 'Our code is written in highest standards, which makes it highly sustainable',
+		name: 'Index Universal Life',
+		description: '(IUL) is a permanent policy with flexibility of premium and death benefit. It also features a higher growth potential through index interest crediting. The policy owner has the ability to invest within specified “indexes” (such as the S&P 500 or Nasdaq 100) to increase the chances of larger returns.',
 		icon: iconStyle(GrHostMaintenance),
 		imgClass: 'three',
 	},
 	{
-		name: '24/7 Support',
-		description: 'Our team is available at all times in case you need us',
+		name: 'Fixed Indexed Annuity',
+		description: 'With a Lifetime Income rider, annuties are meant to guarantee set payments regardless of how long you and your spouse live in retirement. Fixed Indexed Annuities offer guaranteed protection with the growth potential found in the IUL.',
 		icon: iconStyle(BiSupport),
 		imgClass: 'four',
 	},
 	{
-		name: 'Price',
-		description: 'We offer the highest value/cost ratio',
+		name: 'Debt Consolidation',
+		description: 'We work with our clients, and their creditors, to reduce their obligation by eliminating their debt(s) at a fraction of the balance they owe. We are all planning for our family\'s future. Unfortunately for many of us, that future is standing in the shadow of overwhelming debt.',
 		icon: iconStyle(BiDollar),
 		imgClass: 'five',
 	},
 	{
-		name: 'Scalable',
+		name: 'Become an Agent',
 		description:
-			'Our servers are located all over the world, therefore improving scalability and speed ',
+			'Learn why the life insurance industry is the #1 industry to learn about sales, becoming an entrepreneur, and creating wealth. From weekly office trainings, the Quest learning management system, and our network of providers, our agents have unlimited access to world class training and tools as part of our platform.',
 		icon: iconStyle(AiOutlineCloudUpload),
 		imgClass: 'six',
 	},

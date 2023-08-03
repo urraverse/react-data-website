@@ -6,11 +6,11 @@ import { HeroVideo, HeroSection, HeroText, ButtonWrapper, HeroButton } from './H
 const Hero = () => {
 	return (
 		<HeroSection>
-			<HeroVideo src="./assets/hero.mp4" autoPlay muted />
+			<HeroVideo src="./assets/hero.mp4" autoPlay replay muted />
 			<Container>
-				<MainHeading>Your data is secure with us</MainHeading>
+				<MainHeading>LIFE, HEALTH, <br/>& WEALTH</MainHeading>
 				<HeroText>
-					We provide the best security systems for clients all over the world
+					We provide the best Life Insurance and Retirement Carriers to clients all over the US
 				</HeroText>
 				<ButtonWrapper>
 					<Link to="signup">
